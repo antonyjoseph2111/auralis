@@ -2,64 +2,55 @@
 
 <div align="center">
 
-<div align="center">
-    <img src="assets/logo.jpg" alt="Team Auralis Logo" width="300" />
-</div>
+<img src="assets/logo.jpg" alt="Team Auralis Logo" width="250" />
 
-[![Winner SIH 2025](https://img.shields.io/badge/🏆_Winner-Smart_India_Hackathon_2025-gold?style=for-the-badge)](https://sih.gov.in)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/antonyjoseph2111/auralis)
+### 🏆 Winner - Smart India Hackathon 2025 (SIH25216) 🏆
 
-**An Integrated Multi-Modal System for Air Pollution Monitoring, Forecasting, and Mitigation.**
-*Empowering cities with Physics-Aware AI and Satellite Intelligence.*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22c55e&center=true&vCenter=true&width=435&lines=Physics-Aware+Air+Quality+Forecasting;Satellite-Based+Pollution+Source+Tracking;Health-Centric+Navigation;AI-Driven+Policy+Analysis;Winner+SIH+2025)](https://git.io/typing-svg)
 
-[Explore the Docs](#) · [View Demo](#) · [Report Bug](#)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity)](https://github.com/antonyjoseph2111/auralis)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge&logo=git)](http://makeapullrequest.com)
+
+<p align="center">
+  <b>Auralis</b> is an integrated multi-modal system designed to combat the air pollution crisis in Delhi-NCR. <br>
+  We leverage <b>Physics-Aware Deep Learning</b>, <b>Satellite Intelligence (Sentinel-5P)</b>, and <b>Graph Algorithms</b> to monitor, predict, and mitigate pollution.
+</p>
+
+[Explore Docs](#) • [View Demo](#) • [Report Bug](#)
 
 </div>
 
 ---
 
-## 🚀 Overview
+## 🛠️ Tech Stack & Tools
 
-**Auralis** is a groundbreaking platform developed to combat the severe air pollution crisis in the Delhi-NCR region. Born out of the **Smart India Hackathon 2024**, our solution integrates cutting-edge deep learning, satellite imagery, and graph algorithms to provide a holistic approach to air quality management.
+<div align="center">
 
-We don't just monitor pollution; we predict it, trace it to its source, and guide you through it safely.
+| **Core AI & Data** | **Frontend & Maps** | **Backend & Cloud** | **Tools & DevOps** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Sentinel-5P](https://img.shields.io/badge/ESA-Sentinel--5P-003366?style=for-the-badge) | ![Mermaid](https://img.shields.io/badge/Mermaid-CA9CE1?style=for-the-badge) |
+
+</div>
 
 ---
 
 ## 💎 The ClearSight Ecosystem
 
-This repository consolidates the entire Auralis ecosystem into a single unified monorepo. Explore our five core modules:
+This repository consolidates the entire **Auralis** ecosystem into a single unified monorepo.
 
-### 1. 🔮 AQI Forecasting (`clearsight-aqi-forecasting`)
-*state-of-the-art Hybrid Physics-Aware BiLSTM Models*
-- **72-Hour Predictions**: Highly accurate PM2.5 forecasting.
-- **Physics-Informed**: Constrained by meteorological laws to prevent hallucinations.
-- **Real-Time Correction**: Dynamically adjusts to live CPCB sensor data.
+### 🌟 Key Modules
 
-### 2. 🗺️ Pollution-Free Routing (`clearsight-pollution-free-routing`)
-*Deep Graph Algorithms for Healthy Commutes*
-- **A* Search Integration**: Custom routing engine weighing path distance against exposure.
-- **Heatmap Layer**: Avoids hotspots of toxic air.
-- **Graph-Based Navigation**: Optimized for pedestrians and cyclists.
-
-### 3. 🏭 Source Identification (`clearsight-source-prediction`)
-*Satellite-Based Plume Tracking*
-- **Sentinel-5P Data**: Analysis of satellite imagery to detect NO2 and aerosol plumes.
-- **Reverse Trajectory Modeling**: Traces pollution back to industrial or agricultural sources.
-- **Visual Evidence**: Generates evidence packages for authorities.
-
-### 4. 🏥 Health Advisory (`clearsight-health-advisory`)
-*Personalized Risk Assessment*
-- **Gemini AI Integration**: Generates custom health reports based on user profiles (asthma, age).
-- **Activity Recommendations**: "Is it safe to jog today?"
-- **Medical Context**: Connects pollution levels to potential health symptoms.
-
-### 5. 📜 Policy Analysis (`clearsight-policy-implementation`)
-*Data-Driven Decision Support*
-- **Impact Assessment**: Historical analysis of policy interventions (e.g., Odd-Even rule).
-- **Counterfactual Modeling**: "What if" scenarios for new regulations.
-- **Station-Wise Granularity**: Detailed reports for distinct neighborhoods.
+| Module | Description | Key Tech |
+| :--- | :--- | :--- |
+| **🔮 AQI Forecasting** | **72-Hour Predictions** using Hybrid Physics-Aware BiLSTM Models. Constrained by meteorological laws to prevent hallucinations. | `BiLSTM` `TensorFlow` |
+| **🗺️ Pollution Routing** | **Pollution-Free Navigation** using A* Search algorithms to weigh path distance against exposure. | `Graph Theory` `Leaflet` |
+| **🏭 Source ID** | **Plume Tracking** via Sentinel-5P satellite imagery to detect NO2 and aerosol plumes from space. | `Sentinel-5P` `CV` |
+| **🏥 Health Advisory** | **Personalized Risk Assessment** using Gemini AI to generate custom health reports based on user profiles. | `Gemini API` `GenAI` |
+| **📜 Policy Analysis** | **Counterfactual Modeling** to simulate the impact of policy interventions like Odd-Even rules. | `Data Analytics` |
 
 ---
 
@@ -67,17 +58,28 @@ This repository consolidates the entire Auralis ecosystem into a single unified 
 
 ```mermaid
 graph TD
-    A[Real-Time Sensors] -->|Ingest| B(Unified Data Layer)
-    S[Sentinel-5P Satellites] -->|Ingest| B
-    B --> C{Hybrid AI Engine}
-    C -->|BiLSTM| D[Forecasting Module]
-    C -->|CNN+CV| E[Source Detection]
-    C -->|Graph| F[Routing Engine]
-    C -->|LLM| G[Health Advisory]
+  subgraph Data Ingestion
+    A[Real-Time Sensors (CPCB)] -->|JSON| B(Unified Data Layer)
+    S[Sentinel-5P Satellites] -->|Tiff| B
+    W[Weather APIs] -->|REST| B
+  end
+  
+  subgraph AI Engine
+    B --> C{Hybrid Physics-Aware Model}
+    C -->|BiLSTM Sequence| D[Forecasting Module]
+    C -->|Computer Vision| E[Source Detection]
+    C -->|A* Algorithm| F[Routing Engine]
+    C -->|LLM RAG| G[Health Advisory]
+  end
+  
+  subgraph User Interface
     D --> H[Web Dashboard]
     E --> H
     F --> H
     G --> H
+  end
+  
+  style C fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ---
@@ -130,7 +132,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
     Made with ❤️ by Team Auralis
 </div>
 
-<!-- Keywords for Search Engine Optimization -->
-<!-- 
-#SIH2025 #SmartIndiaHackathon #SmartIndiaHackathon2025 #SIHWinner #AirQuality #Forecast #DeepLearning #PhysicsAwareAI #BiLSTM #GraphAlgorithms #PollutionRouting #Sentinel5P #SatelliteImagery #Python #TensorFlow #India #DelhiNCR #PollutionControl #HackathonProject #BestProject #SIH25216 #TeamAuralis
--->
+<div align="center">
+
+![SIH2025](https://img.shields.io/badge/Competition-SIH_2025-gold?style=for-the-badge)
+![Winner](https://img.shields.io/badge/Status-Winner-success?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Smart_Automation-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Air_Quality-green?style=for-the-badge)
+
+</div>
