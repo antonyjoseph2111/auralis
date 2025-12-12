@@ -61,21 +61,21 @@ This repository consolidates the entire **Auralis** ecosystem into a single unif
 ```mermaid
 graph TD
   subgraph Data Ingestion
-    A[Real-Time Sensors (CPCB)] -->|JSON| B(Unified Data Layer)
-    S[Sentinel-5P Satellites] -->|Tiff| B
-    W[Weather APIs] -->|REST| B
+    A["Real-Time Sensors (CPCB)"] -->|JSON| B("Unified Data Layer")
+    S["Sentinel-5P Satellites"] -->|Tiff| B
+    W["Weather APIs"] -->|REST| B
   end
   
   subgraph AI Engine
-    B --> C{Hybrid Physics-Aware Model}
-    C -->|BiLSTM Sequence| D[Forecasting Module]
-    C -->|Computer Vision| E[Source Detection]
-    C -->|A* Algorithm| F[Routing Engine]
-    C -->|LLM RAG| G[Health Advisory]
+    B --> C{"Hybrid Physics-Aware Model"}
+    C -->|BiLSTM Sequence| D["Forecasting Module"]
+    C -->|Computer Vision| E["Source Detection"]
+    C -->|A* Algorithm| F["Routing Engine"]
+    C -->|LLM RAG| G["Health Advisory"]
   end
   
   subgraph User Interface
-    D --> H[Web Dashboard]
+    D --> H["Web Dashboard"]
     E --> H
     F --> H
     G --> H
