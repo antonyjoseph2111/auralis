@@ -90,11 +90,6 @@ graph TD
 
 We are the proud **Winners of Smart India Hackathon 2025 (SIH25216)**.
 
-<div align="center">
-    <img src="assets/winning_team.jpg" alt="Team Auralis Winning Moment" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
-</div>
-<br>
-
 | **Antony Joseph** | **Nate Kurian** | **Aparna Anil Nair** |
 | :---: | :---: | :---: |
 | 🧑‍💻 Team Leader | 🚀 Member | 🎨 Member |
