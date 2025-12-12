@@ -81,7 +81,7 @@ graph TD
     G --> H
   end
   
-  style C fill:#f9f,stroke:#333,stroke-width:4px
+  style C fill:#22c55e,stroke:#fff,stroke-width:4px,color:#fff
 ```
 
 ---
