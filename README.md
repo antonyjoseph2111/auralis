@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Auralis Banner](https://placehold.co/1200x400/22c55e/ffffff?text=AURALIS+Legacy)
+<div align="center">
+    <img src="assets/logo.jpg" alt="Team Auralis Logo" width="300" />
+</div>
 
 [![Winner SIH 2025](https://img.shields.io/badge/🏆_Winner-Smart_India_Hackathon_2025-gold?style=for-the-badge)](https://sih.gov.in)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
