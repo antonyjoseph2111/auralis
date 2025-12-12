@@ -1,4 +1,4 @@
-# 🌿 AURALIS: The Future of Urban Air Quality Management
+#  AURALIS: The Future of Urban Air Quality Management
 
 <div align="center">
 
