@@ -4,20 +4,22 @@
 
 <img src="assets/logo.jpg" alt="Team Auralis Logo" width="250" />
 
-### 🏆 Winner - Smart India Hackathon 2025 (SIH25216) 🏆
+<h3>🏆 Winner - Smart India Hackathon 2025 (SIH25216) 🏆</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22c55e&center=true&vCenter=true&width=435&lines=Physics-Aware+Air+Quality+Forecasting;Satellite-Based+Pollution+Source+Tracking;Health-Centric+Navigation;AI-Driven+Policy+Analysis;Winner+SIH+2025)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22c55e&center=true&vCenter=true&width=435&lines=Physics-Aware+Air+Quality+Forecasting;Satellite-Based+Pollution+Source+Tracking;Health-Centric+Navigation;AI-Driven+Policy+Analysis;Winner+SIH+2025" alt="Typing SVG" /></a>
+
+<br>
 
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity)](https://github.com/antonyjoseph2111/auralis)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge&logo=git)](http://makeapullrequest.com)
 
-<p align="center">
+<p>
   <b>Auralis</b> is an integrated multi-modal system designed to combat the air pollution crisis in Delhi-NCR. <br>
   We leverage <b>Physics-Aware Deep Learning</b>, <b>Satellite Intelligence (Sentinel-5P)</b>, and <b>Graph Algorithms</b> to monitor, predict, and mitigate pollution.
 </p>
 
-[Explore Docs](#) • [View Demo](#) • [Report Bug](#)
+<a href="#">Explore Docs</a> • <a href="#">View Demo</a> • <a href="#">Report Bug</a>
 
 </div>
 
