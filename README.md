@@ -117,8 +117,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+---
+
 <div align="center">
     <b>Star this repo 🌟 if you found it useful!</b>
     <br>
     Made with ❤️ by Team Auralis
 </div>
+
+<!-- Keywords for Search Engine Optimization -->
+<!-- 
+#SIH2025 #SmartIndiaHackathon #SmartIndiaHackathon2025 #SIHWinner #AirQuality #Forecast #DeepLearning #PhysicsAwareAI #BiLSTM #GraphAlgorithms #PollutionRouting #Sentinel5P #SatelliteImagery #Python #TensorFlow #India #DelhiNCR #PollutionControl #HackathonProject #BestProject #SIH25216 #TeamAuralis
+-->
