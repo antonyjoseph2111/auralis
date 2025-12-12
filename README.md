@@ -4,7 +4,7 @@
 
 ![Auralis Banner](https://placehold.co/1200x400/22c55e/ffffff?text=AURALIS+Legacy)
 
-[![Winner SIH 2024](https://img.shields.io/badge/🏆_Winner-Smart_India_Hackathon_2024-gold?style=for-the-badge)](https://sih.gov.in)
+[![Winner SIH 2025](https://img.shields.io/badge/🏆_Winner-Smart_India_Hackathon_2025-gold?style=for-the-badge)](https://sih.gov.in)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/antonyjoseph2111/auralis)
 
@@ -82,7 +82,7 @@ graph TD
 
 ## 🏆 Team Auralis
 
-We are the proud **Winners of Smart India Hackathon 2024 (SIH25216)**.
+We are the proud **Winners of Smart India Hackathon 2025 (SIH25216)**.
 
 | **Antony Joseph** | **Nate Kurian** | **Aparna Anil Nair** |
 | :---: | :---: | :---: |
